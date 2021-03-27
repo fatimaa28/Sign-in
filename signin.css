@@ -1,0 +1,74 @@
+.box {
+  width: 380px;
+  border: 0.5px solid rgb(207, 207, 207);
+  position: relative;
+  padding: 20px;
+  display: block;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  height: 24px;
+  width: 75px;
+}
+
+.container1 {
+  font-family: roboto, "Noto Sans Myanmar UI", arial, sans-serif;
+}
+
+.l1 {
+  padding-top: 20px;
+  text-align: center;
+  color: rgb(17, 17, 17);
+  font-size: 24px;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.l2 {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-family: "Noto Sans", sans-serif;
+  color: rgb(32, 32, 32);
+}
+
+.Email {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 24px;
+  margin-bottom: 0em;
+  height: 45px;
+  width: 370px;
+}
+
+.submit {
+  display: block;
+  margin-left: auto;
+  align-self: center;
+  background-color: rgb(6, 151, 196);
+  color: cornsilk;
+  text-align: center;
+  border: none;
+  padding: 5px 5px;
+  font-size: 15px;
+  height: 25px;
+  width: 50px;
+  border-radius: 2px;
+}
+
+.forget-email {
+  text-align: left;
+  padding-left: 8px;
+  padding-top: 5px;
+  text-decoration: none;
+  color: rgb(6, 151, 196);
+}
